@@ -18,7 +18,7 @@ function Post() {
                 <div className="post__header">
                     <div className="post__headerText">
                         <h3>
-                            Saumya Garg
+                            Amit Kumar
                             <span className="post__headerSpecial">
                                 <VerifiedUserIcon className="post__badge" />
                                 @SaumyaG07268675

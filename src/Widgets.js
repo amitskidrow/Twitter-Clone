@@ -27,11 +27,11 @@ function Widgets() {
                 />
 
                 <TwitterShareButton
-                    url={"https://www.instagram.com/garg.saumya20/"}
+                    url={"https://www.instagram.com/amit21august/"}
                     options={{ text: "#reactjs is awesome", via: "SaumyaG07268675" }}
                 />
                 <div className="info">
-                    Twitter Clone by Saumya Garg.
+                    Twitter Clone by Amit Kumar.
                     <br />
                     <a href="Twitter Clone" className="link">Github</a>
                 </div>
